@@ -52,4 +52,4 @@ public abstract class DistanceFormatter
 			return String.format("%d.%02d miles", miles, frackm);
 		} // total_distance
 	} // class MilesFormatter
-} // DistanceFormatter
+} // 
